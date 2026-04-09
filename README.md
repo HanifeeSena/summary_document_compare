@@ -128,6 +128,8 @@ python web_compare.py
 ### 🖥️ Ana Sayfa - Veri Girişi Arayüzü
 
 Modern ve kullanıcı dostu koyu tema tasarımı ile göz yormayan bir deneyim:
+<img width="1552" height="1282" alt="image" src="https://github.com/user-attachments/assets/519bd6df-88f4-4097-959f-0206ec1e5f24" />
+
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════╗
