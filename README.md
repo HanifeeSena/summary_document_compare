@@ -136,7 +136,8 @@ Modern ve kullanıcı dostu koyu tema tasarımı ile göz yormayan bir deneyim:
 ### 📊 Sonuç Özeti
 
 Karşılaştırma sonuçlarının anlaşılır özeti:
-<img width="1388" height="225" alt="image" src="https://github.com/user-attachments/assets/3f721126-db77-45e5-b658-8900832d1a89" />
+<img width="1481" height="746" alt="image" src="https://github.com/user-attachments/assets/95489534-1dbf-433c-bbb3-e32fc97cc8eb" />
+
 
 
 
